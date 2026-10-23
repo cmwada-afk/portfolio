@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Portfolio Website",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "A personal portfolio site built in DSC 106 with HTML, CSS, and JavaScript, featuring a JS-generated nav and a dark mode switcher."
+  },
+  {
+    "title": "DSC 106 Project 2: Persuasive Visualization",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "A persuasive data visualization with annotations designed to guide readers to a specific interpretation."
+  },
+  {
+    "title": "DSC 106 Project 1: Static Visualization",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "A static visualization that tells a clear story with an effective title and annotations."
+  },
+  {
+    "title": "NBA Lottery Pick Survival Analysis",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Eclipse Data Science project using survival analysis to predict All-Star outcomes for NBA lottery picks."
+  },
+  {
+    "title": "EV Sports Analysis Project",
+    "year": "2025",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Used cross-reference techniques to analyze player performance data."
+  },
+  {
+    "title": "Lorem ipsum dolor sit",
+    "year": "2025",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, voluptatibus. Eaque fugit tempora nisi laborum ratione."
+  },
+  {
+    "title": "Amet consectetur adipisicing elit",
+    "year": "2025",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis harum odit dolores aut quae iusto blanditiis."
+  },
+  {
+    "title": "Voluptas nemo quod",
+    "year": "2025",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus nihil repellat dicta minima fuga sint animi."
+  },
+  {
+    "title": "Eaque fugit tempora",
+    "year": "2024",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere magni cumque natus ipsum tempore officia rem."
+  },
+  {
+    "title": "Nisi laborum ratione ex",
+    "year": "2023",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa sequi explicabo magnam veniam quisquam."
+  },
+  {
+    "title": "Odit dolores aut",
+    "year": "2022",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad tenetur voluptas nemo quod eaque fugit."
+  },
+  {
+    "title": "Quae iusto blanditiis",
+    "year": "2021",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error porro nisi laborum ratione odit dolores."
+  }
+]
