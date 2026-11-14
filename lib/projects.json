@@ -1,5 +1,12 @@
 [
   {
+    "title": "Bikewatching",
+    "year": "2026",
+    "image": "https://cmwada-afk.github.io/portfolio/images/bikewatching.png",
+    "description": "An interactive map of Boston Bluebikes traffic built with Mapbox and D3. Station circles are sized by trips and colored by departures vs. arrivals, with a slider to filter by time of day.",
+    "url": "https://cmwada-afk.github.io/bikewatching/"
+  },
+  {
     "title": "Portfolio Website",
     "year": "2026",
     "image": "https://vis-society.github.io/labs/2/images/empty.svg",
